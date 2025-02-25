@@ -13,7 +13,7 @@ Handles HTML-encoded anime titles
 
 Filters out invalid ratings (-1) before computing average ratings
 
-Technologies Used
+# Technologies Used
 
 Python
 
