@@ -1,7 +1,7 @@
 # Anime-recommendations
 A content-based anime recommendation system that suggests similar anime based on genre similarity using TF-IDF Vectorization and Cosine Similarity.
 
-Features
+# Features
 
 Content-Based Filtering using anime genres
 
