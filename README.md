@@ -31,8 +31,33 @@ Removes common English words (stop words) to focus on meaningful terms.
 Helps in representing genre-based similarity in a numerical format.
 
 
+
 Cosine Similarity for Recommendations
 
 Computes the similarity between anime based on their TF-IDF vectors.
 Uses cosine similarity, which measures the cosine of the angle between two vectors.
 If two anime have similar genres, their vectors will be closer (high cosine similarity score).
+
+
+
+
+# Installation
+
+Clone this repository:
+```
+git clone https://github.com/yourusername/anime-recommendation-system.git 
+cd anime-recommendation-system
+```
+Install dependencies:
+```
+pip install pandas scikit-learn
+```
+
+Place `anime.csv` and `rating.csv` in the project directory.
+
+
+
+![preview jpg](https://github.com/user-attachments/assets/b6347045-e8aa-488e-8a03-ecf1f6f3adcc)
+
+
+
