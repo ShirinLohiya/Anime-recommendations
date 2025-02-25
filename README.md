@@ -9,6 +9,8 @@ TF-IDF Vectorization to process genres
 
 Cosine Similarity to measure anime similarity
 
+kaggle for dataset
+
 Handles HTML-encoded anime titles
 
 Filters out invalid ratings (-1) before computing average ratings
