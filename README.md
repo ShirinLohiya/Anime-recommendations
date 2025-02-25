@@ -50,7 +50,7 @@ cd anime-recommendation-system
 ```
 Install dependencies:
 ```
-pip install pandas scikit-learn
+pip install pandas scikit-learn flask
 ```
 
 Place `anime.csv` and `rating.csv` in the project directory.
